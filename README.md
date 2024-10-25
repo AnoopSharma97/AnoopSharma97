@@ -1,5 +1,5 @@
 <a href=#><img src="pacman.svg"></a>
-
+ <!-- 
 <div float="right"> 
  
 ![Anoop's Github Stats](https://github-readme-stats.vercel.app/api?username=AnoopSharma97&show_icons=true&theme=gruvbox) 
@@ -7,4 +7,4 @@
 
 </div>
 
- ![](https://komarev.com/ghpvc/?username=AnoopSharma97&color=lightgrey)
+ ![](https://komarev.com/ghpvc/?username=AnoopSharma97&color=lightgrey) -->
